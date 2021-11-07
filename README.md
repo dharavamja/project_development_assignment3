@@ -4,6 +4,5 @@ This project is developed to demonstrate the use of git with basic codebase. The
 To use this project,
 
 1. Clone the repository
-2. build the project
-3. run the project
-4. Output window will be prompt.
+2. Open html file
+3. Output window will be prompt in browser.
